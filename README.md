@@ -2,9 +2,9 @@
 ## Our Wonderful Story
 
 1. Once upon a time, there was a **pirate**.  
-   ![pirate](img1.png)
+   ![pirate](img/pirate.png)
 
-2. who wants to be king of all the pirate in the seven seas.
+2. Who wants to be king of all the pirates across the seven seas.
    
 
 3. The scientist shouted something very important but nobody wrote it down.  
