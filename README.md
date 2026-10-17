@@ -10,7 +10,7 @@
 3. The scientist shouted something very important but nobody wrote it down.  
 
 4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
-   ![treasure chest](img2.png)
+   ![treasure chest](img/treasure_large.png)
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
