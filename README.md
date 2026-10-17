@@ -1,17 +1,11 @@
-# Team Story Challenge
-
-This is the starting draft of your team’s story.  
-Your mission: **revise and improve it**, making it coherent, funny, and illustrated with the provided images.
-
----
 
 ## Our Wonderful Story
 
-1. Once upon a time, there was a **castle**.  
-   ![castle](img1.png)
+1. Once upon a time, there was a **pirate**.  
+   ![pirate](img1.png)
 
-2. Then suddenly, a **dragon** appeared… but maybe it was actually a **robot**?  
-   (Nobody is sure yet.)
+2. who wants to be king of all the pirate in the seven seas.
+   
 
 3. The scientist shouted something very important but nobody wrote it down.  
 
