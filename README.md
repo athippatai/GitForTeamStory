@@ -7,10 +7,10 @@
 2. Who wants to be king of all the pirates across the seven seas.so he set sail guided by an ancient, mysterious **map**.  
    ![map](img/map.png)
    
-3. The scientist shouted, "Stop! That pirate map points straight to the cursed treasure of the seven seas!" but nobody listened because the pirate was already fighting a giant dragon๕**scientist**.
+3. The **scientist** shouted, "Stop! That pirate map points straight to the cursed treasure of the seven seas!" but nobody listened because the pirate was already fighting a giant dragon .
    ![scientist](img/scientist.png)
 
-4. During the chaotic fight, the dragon accidentally smashed a secret mechanism on the ground, triggering a magical explosion that teleported everyone onto a mysterious island—right in front of a locked treasure chest **treasure_chest**!
+4. During the chaotic fight, the dragon accidentally smashed a secret mechanism on the ground, triggering a magical explosion that teleported everyone onto a mysterious island—right in front of a locked **treasure_chest**!
    ![treasure chest](img/treasure_large.png)
    
 
