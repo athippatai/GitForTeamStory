@@ -27,7 +27,8 @@
 8. Upon arriving at an unknown, mysterious planet, they found themselves surrounded by scorching heat, reddish-orange brick-colored ground, and strange structures. There, they encountered a green creature that looked nothing like a human and was holding an ice cream cone. It introduced itself as a citizen of Planet CS100 and wanted to negotiate with them. 
      ![alien](img/alien.png)
 
-9. In the forest, the detective discovered… something.  
-   (What did they find?)  
+9. The alien suggested, "Our planet CS100 is running out of ice cream, and only a true king can solve this problem. If you help us, we will make you the king of the galaxy."
+The pirate and his friends looked at each other, then the pirate said, "Alright, but I get to eat ice cream for free for life." The alien grinned and lifted a crown made of waffle cones.
 
-10. The ending… well, we don’t really have one. Please fix this.
+10. Just as the crown touched his head, there was a loud "POOF!" The pirate woke up on his ship back on Earth, with his friends snoring beside him. A grinning **wizard** stood there with a sparkling wand. "Sorry," he said, "I cast a sleeping spell on you all because you kept arguing about who should be king." The pirate looked around. No alien, no CS100, no ice cream. But there was one waffle cone stuck in his hair.
+      ![wizard](img/wizard.png)
