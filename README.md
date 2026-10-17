@@ -4,7 +4,8 @@
 1. Once upon a time, there was a **pirate**.  
    ![pirate](img/pirate.png)
 
-2. Who wants to be king of all the pirates across the seven seas.
+2. Who wants to be king of all the pirates across the seven seas.so he set sail guided by an ancient, mysterious **map**.  
+   ![map](img/map.png)
    
 
 3. The scientist shouted something very important but nobody wrote it down.  
