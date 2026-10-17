@@ -21,9 +21,11 @@
 
 6. Even though he had no idea what space was,It still thrilled him because he loved a challenge. “Let’s go to space!” he shouted.
 
-7. A rocket blasted off, but at the same time the **time machine** broke down.  
+7. The pirate and his friends boarded the spaceship standing next to the treasure chest and headed toward the destination shown on the mysterious map.
+     ![rocket](img/rocket.png)
 
-8. The cat was supposed to talk here, but the line is missing.  
+8. Upon arriving at an unknown, mysterious planet, they found themselves surrounded by scorching heat, reddish-orange brick-colored ground, and strange structures. There, they encountered a green creature that looked nothing like a human and was holding an ice cream cone. It introduced itself as a citizen of Planet CS100 and wanted to negotiate with them. 
+     ![alien](img/alien.png)
 
 9. In the forest, the detective discovered… something.  
    (What did they find?)  
