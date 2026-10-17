@@ -14,8 +14,10 @@
    ![treasure chest](img/treasure_large.png)
    
 
-6. Someone found a map, but it had no directions.  
-   (TODO: add an image of the map?)  
+6. After unlocking the treasure chest ,It  was full of treasure.
+ ![treasure chest open](img/treasure_open.png) 
+ But the pirate cared about only one thing inside is another map, labeled "Space." He found out it was a continuation of the first map he had found.
+     ![map](img/map.png)
 
 7. “Let’s go to space!” shouted the pirate (although there was no pirate before this).  
 
