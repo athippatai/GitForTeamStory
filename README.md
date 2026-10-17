@@ -7,10 +7,12 @@
 2. Who wants to be king of all the pirates across the seven seas.
    
 
-3. The scientist shouted something very important but nobody wrote it down.  
+3. The scientist shouted, "Stop! That pirate map points straight to the cursed treasure of the seven seas!" but nobody listened because the pirate was already fighting a giant dragon.
+   ![scientist.png](img/scientist.png)
 
-4. After that, everyone got lost (or maybe teleported?) and somehow there was a **treasure chest**…  
+4. During the chaotic fight, the dragon accidentally smashed a secret mechanism on the ground, triggering a magical explosion that teleported everyone onto a mysterious island—right in front of a locked treasure chest!
    ![treasure chest](img/treasure_large.png)
+   
 
 5. Someone found a map, but it had no directions.  
    (TODO: add an image of the map?)  
